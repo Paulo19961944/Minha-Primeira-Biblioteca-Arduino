@@ -1,0 +1,3 @@
+PiscaLed		KEYWORD1
+
+acende_led	KEYWORD2
